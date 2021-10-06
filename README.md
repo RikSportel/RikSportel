@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RikSportel
+- 👀 I’m interested in philosophy, thought processes and technology
+- 🌱 I’m currently learning distributed computing
+- 💞️ I’m looking to collaborate on anything really
+- 📫 How to reach me - riksportel [at] hotmail [dot] com
